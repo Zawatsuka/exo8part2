@@ -1,0 +1,79 @@
+#vert {
+    position: absolute;
+    width: 80%;
+    height: 12.5%;
+    background: #2dcc70;
+    left: 0%;
+}
+
+#bleu {
+
+    position: absolute;
+    width: 20%;
+    height: 12.5%;
+    background: #297fb8;
+    right: 0%;
+}
+
+#rouge {
+    position: absolute;
+    width: 33.3%;
+    height: 20%;
+    background: #e84c3d;
+    left: 0%;
+    top: 14%
+}
+
+#orange {
+    position: absolute;
+    width: 33.4%;
+    height: 10%;
+    background: #eb7F22;
+    right: 33.3%;
+    top: 14%
+}
+
+#gris {
+    position: absolute;
+    width: 33.3%;
+    height: 10%;
+    background: #95A5A5;
+    right: 0%;
+    top: 14%
+}
+
+#orangeclair {
+    position: absolute;
+    width: 22.2%;
+    height: 10%;
+    background: #f39c11;
+    left: 33.3%;
+    top: 24%
+}
+
+#bleuclair {
+    position: absolute;
+    width: 22.2%;
+    height: 10%;
+    background: #1ba086;
+    left: 55.5%;
+    top: 24%
+}
+
+#orangefonce {
+    position: absolute;
+    width: 22.2%;
+    height: 10%;
+    background: #d25500;
+    left: 77.7%;
+    top: 24%
+}
+#bleufonce
+{
+    position: absolute;
+    width: 110%;
+    height: 100%;
+    background: #2d3E50;
+    left: 0%;
+    top: 34%
+}
